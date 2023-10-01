@@ -16,7 +16,7 @@
   "dependencies": {
     "chalk": "^4.1.2",
     "cli-highlight": "^2.1.11",
-    "dotenv": "^16.0.3",
+    "dotenv": "^16.3.1",
     "expr-eval": "^2.0.2",
     "gpt-tokenizer": "^1.0.5",
     "graphql-request": "^6.0.0",
