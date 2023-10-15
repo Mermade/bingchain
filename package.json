@@ -34,7 +34,7 @@
     "termview": "https://github.com/MikeRalphson/termview.git",
     "turndown": "github:mixmark-io/turndown",
     "turndown-plugin-gfm": "^1.0.2",
-    "uuid": "^9.0.0",
+    "uuid": "^9.0.1",
     "yaml": "^2.3.2"
   },
   "devDependencies": {
